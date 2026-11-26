@@ -21,7 +21,7 @@
 
 ## Enlaces del Proyecto
 
-* **Sitio Web Público:** `\[Pegar aquí URL pública de Netlify / GitHub Pages]`
+* **Sitio Web Público:** `\[https://aquatilapia-utmach.netlify.app/]`
 * **Simulación Electrónica (Wokwi):** `\[https://wokwi.com/projects/481694232724767745]`
 
 ## Estructura del Repositorio
