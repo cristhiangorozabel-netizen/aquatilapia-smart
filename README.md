@@ -13,10 +13,10 @@
 * **Líder del Grupo:** Cristhian Joao Gorozabel Roldan — *Arquitectura IoT, Firmware ESP32 y Publicación Web*
 * **Integrante 1:** Justin Leonardo — *Desarrollo de Algoritmo en PSeInt*
 * **Integrante 2:** Mathias Andres  — *Traducción y Validación en Java*
-* **Integrante 3:** Darwin Alexis  — *Simulación Electrónica en Wokwi y Esquemas*
-* **Integrante 4:** Brithany Dayanara — *Montaje Físico, Sensores y Relés*
-* **Integrante 5:** Brithany Suleiny — *Construcción de Maqueta Acuapónica y Biofiltro*
-* **Integrante 6:** Jean Lucas  — *Diseño Comercial e Identidad Visual*
+* **Integrante 3:** Darwin Alexis Ojeda Tamayo  — *Simulación Electrónica en Wokwi y Esquemas*
+* **Integrante 4:** Brithany Dayanara Vega Cueva — *Montaje Físico, Sensores y Relés*
+* **Integrante 5:** Brithany Suleiny Freire Rios — *Construcción de Maqueta Acuapónica y Biofiltro*
+* **Integrante 6:** Jean Lucas Tituana Calderon  — *Diseño Comercial e Identidad Visual*
 * **Integrante 7:** Robin Alejandro Salas Pedreros — *Documentación Técnica, Pruebas y Evidencias*
 
 ## Enlaces del Proyecto
