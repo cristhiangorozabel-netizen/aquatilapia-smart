@@ -11,7 +11,7 @@
 ## Integrantes del Equipo (8 Integrantes)
 
 * **Líder del Grupo:** Cristhian Joao Gorozabel Roldan — *Arquitectura IoT, Firmware ESP32 y Publicación Web*
-* **Integrante 1:** Justin Leonardo — *Desarrollo de Algoritmo en PSeInt*
+* **Integrante 1:** Justin Leonardo Feijoo Paladines — *Desarrollo de Algoritmo en PSeInt*
 * **Integrante 2:** Mathias Andres Jimenez Herrera  — *Traducción y Validación en Java*
 * **Integrante 3:** Darwin Alexis Ojeda Tamayo  — *Simulación Electrónica en Wokwi y Esquemas*
 * **Integrante 4:** Brithany Dayanara Vega Cueva — *Montaje Físico, Sensores y Relés*
