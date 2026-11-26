@@ -17,7 +17,7 @@
 * **Integrante 4:** Brithany Dayanara — *Montaje Físico, Sensores y Relés*
 * **Integrante 5:** Brithany Suleiny — *Construcción de Maqueta Acuapónica y Biofiltro*
 * **Integrante 6:** Jean Lucas  — *Diseño Comercial e Identidad Visual*
-* **Integrante 7:** Robin Alejandro — *Documentación Técnica, Pruebas y Evidencias*
+* **Integrante 7:** Robin Alejandro Salas Pedreros — *Documentación Técnica, Pruebas y Evidencias*
 
 ## Enlaces del Proyecto
 
